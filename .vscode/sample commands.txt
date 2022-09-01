@@ -1,0 +1,3 @@
+
+"command": "arduino-cli compile -v -b arduino:avr:uno examples/Example1_BasicReadings",
+"command": "arduino-cli upload -p COM18 -v --fqbn arduino:avr:uno examples/Example1_BasicReadings",
