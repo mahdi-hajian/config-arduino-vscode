@@ -16,7 +16,7 @@ void setup() {
 }
 
 void loop() {
-  setupRgb(0,0,1023);
+  // setupRgb(0,0,1023);
   // delay(delayTime);
   // setupRgb(1023,0,0);
   // delay(delayTime);
