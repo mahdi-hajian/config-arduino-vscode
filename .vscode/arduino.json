@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "AnalogReadSerial.ino",
+    "sketch": "config.ino",
     "port": "COM3",
     "programmer": "arduinoasisp",
     "output": "./Build"

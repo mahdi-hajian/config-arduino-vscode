@@ -8,7 +8,7 @@ void setup() {
 }
 
 void loop() {
-  setupRgb(500,500,500);
+  setupRgb(0,0,0);
 }
 
 void setupRgb(int b, int r, int g){
