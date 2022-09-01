@@ -1,8 +1,8 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "AnalogReadSerial.ino",
+    "sketch": "Config.ino",
     "port": "COM3",
-    "programmer": "arduinoisp",
+    "programmer": "arduinoasisp",
     "output": "./Build",
     "debugger": "jlink",
     "intelliSenseGen": "global",
